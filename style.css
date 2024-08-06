@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div.one{
+    background-color: goldenrod;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+h1,h2{
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 45px;
+}
+h1{
+    color: rgb(104, 52, 67);
+    background-color: goldenrod;
+    
+
+}
+.image{
+
+   height: auto;
+   width: 1080px;
+   display: block;
+   margin: auto;
+   
+}
+div.two{
+    background-color: rgb(133, 184, 123);
+    margin: 0;
+    padding: 0;
+    
+}
+.links{
+    align-content: center;
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size:22px;
+   
+    margin-left: 150px;
+}
