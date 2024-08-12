@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    background-color: rgb(133, 184, 123);
 }
 div.one{
     background-color: goldenrod;
@@ -29,20 +30,41 @@ h1{
    height: auto;
    width: 1080px;
    display: block;
-   margin: auto;
+   margin:20px auto ;
    
 }
 div.two{
     background-color: rgb(133, 184, 123);
     margin: 0;
     padding: 0;
+    height:200px;
     
 }
 .links{
     align-content: center;
     font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
     font-weight: 400;
-    font-size:22px;
+    font-size:28px;
+    margin: 10px 150px ;
+    background-color: rgb(133, 184, 123);
    
-    margin-left: 150px;
+    
 }
+a {
+    display: block;
+    text-decoration:none;
+    background-color: rgb(133, 184, 123);
+}
+.footer,.footerdate{
+   
+    color: white;
+    background-color: black;
+    font-size: 28px;
+
+}
+
+.three{
+    background-color: black;
+}
+
+
